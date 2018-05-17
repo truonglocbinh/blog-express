@@ -1,0 +1,6 @@
+Environment variable 
+NODE_ENV=test API_KEY=XYZ DB_PASSWORD=ABC node app.js
+
+Or 
+export NODE_ENV=production
+node app.js
